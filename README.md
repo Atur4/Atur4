@@ -1,5 +1,4 @@
-# Atur4
-# Variáveis globais
+# jogo em Processing phyton
 PLAYER_SIZE = 50
 SPEED = 5
 FALLING_SPEED = 5
